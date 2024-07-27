@@ -48,9 +48,6 @@
         "semi": [
             "error",
             "always"
-
-
-            
         ],
         "eqeqeq": "off",
         "no-plusplus": "off",
